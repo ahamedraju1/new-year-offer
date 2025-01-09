@@ -1,0 +1,87 @@
+/* merriweather fonts */
+.merriweather-black {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  .merriweather-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  /*Inter fonts  */
+  .inter-normal {
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+/* shared styles */
+.text-center{
+    text-align: center;
+}
+/* header part */
+
+header{
+    margin: 0 auto;
+    max-width: 1320px;
+   
+}
+/* banner styles */
+.banner-img{
+    background-image: url(../images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    /* width: 100%; */
+    height: 600px;
+    margin: 50px 140px 120px;
+    border-radius: 16px;
+    background-image: linear-gradient();
+}
+.banner-content{
+    text-align: center;
+    padding: 177px 344px;
+
+}
+.banner-subtitle{
+    opacity: 90%;
+   font-size: 25px;
+   color: #FFFFFF;
+  
+}
+.banner-title{
+    font-size: 50px;
+    font-weight: black;
+    color: #FFFFFF;
+    
+}
+/* main part start */
+ main{
+    margin: 0 auto;
+    max-width: 1320px;
+ }
+.new-year-off-title{
+    font-size: 88px;
+    font-weight: bold;
+    color: #FF0000;
+    margin-bottom: 48px;
+}
+.new-year-off-description{
+    font-size: 24px;
+    font-weight: medium;
+    color: #FF0000;
+}
+.new-year-off-subtitle{
+    font-size: 48px;
+    font-weight: bold;
+    color: #070211;
+}
+img{
+    width: 800;
+    height: 500px;
+    margin-top: 48px;
+}
+.img-vector{
+    height: 600px;
+    margin: 120px 140px;
+    
+}
