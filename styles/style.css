@@ -31,6 +31,7 @@ header{
 .banner-img{
     background-image: url(../images/Banner\ Image.png);
     background-repeat: no-repeat;
+    background-size: cover;
     /* width: 100%; */
     height: 600px;
     margin: 50px 140px 120px;
@@ -82,6 +83,10 @@ img{
 }
 .img-vector{
     height: 600px;
-    margin: 120px 140px;
+    margin: 120px 140px; 
+    position: absolute;
+}
+.party-content{
+    position:relative;
     
 }
